@@ -1,5 +1,9 @@
 [
   {
+    "package": "brisk",
+    "oncran": true
+  },
+  {
     "package": "dreamer",
     "oncran": true
   }
