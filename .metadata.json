@@ -1,10 +1,10 @@
 [
   {
-    "package": "brisk",
+    "package": "dreamer",
     "oncran": true
   },
   {
-    "package": "dreamer",
+    "package": "brisk",
     "oncran": true
   }
 ]
