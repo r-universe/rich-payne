@@ -8,3 +8,6 @@
 [submodule "dreamer"]
 	path = dreamer
 	url = https://github.com/rich-payne/dreamer
+[submodule "yodel"]
+	path = yodel
+	url = https://github.com/rich-payne/yodel
